@@ -1,22 +1,17 @@
-<h2 align="center">Hi there! I'm Berat Sinan Ada</h2>
+<h2 align="center">Hi there! 👋 I'm Berat Sinan Ada</h2>
 
-<h3 align="center">Geomatics Engineering Student & Spatial Intelligence Aspirant</h3>
+<h3 align="center">🛰️ Geomatics Engineering Student & Spatial Intelligence Developer</h3>
 
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td valign="middle" width="55%">
-      I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
-      By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
-    </td>
-    <td valign="middle" align="right" width="45%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="400" height="220" style="object-fit: cover; border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="400" height="220" align="right" style="object-fit: cover; border-radius: 10px;" />
+
+I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
+By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
+
+<br clear="right" />
 
 ---
 
-### Technical Stack & Tools
+### 🛠️ Technical Stack & Tools
 
 <b>Geospatial & Engineering:</b><br>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
@@ -45,7 +40,7 @@
 
 ---
 
-### GitHub Analysis
+### 📊 GitHub Analysis
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bersinada&theme=dracula" height="160" alt="stats graph" />
@@ -55,7 +50,7 @@
 
 ---
 
-### Connect with me
+### 📫 Connect with me
 
 <div align="left">
   <a href="mailto:bsinanada@gmail.com">
