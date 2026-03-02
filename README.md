@@ -2,14 +2,19 @@
 
 <h3 align="center">🛰️ Geomatics Engineering Student & Spatial Intelligence Aspirant</h3>
 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="350" height="150" style="object-fit: cover; border-radius: 10px;" />
-</p>
-
-<p align="left">
-I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
-By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="middle" width="55%">
+      <p>
+        I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
+        By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
+      </p>
+    </td>
+    <td valign="middle" align="right" width="45%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="400" height="220" style="object-fit: cover; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
