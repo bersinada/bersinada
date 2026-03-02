@@ -65,5 +65,5 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bersinada/bersinada/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bersinada/bersinada/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
