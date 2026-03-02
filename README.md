@@ -2,8 +2,8 @@
 
 <h3 align="center">🛰️ Geomatics Engineering Student & Spatial Intelligence Aspirant</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="600" height="200" style="object-fit: cover; border-radius: 10px;" />
+<p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="350" height="150" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 <p align="left">
