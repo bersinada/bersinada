@@ -45,8 +45,8 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 ### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bersinada&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bersinada&layout=compact&theme=dracula&langs_count=6" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bersinada&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=1800" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bersinada&layout=compact&theme=dracula&langs_count=6&hide_border=true&cache_seconds=1800" height="170" alt="languages graph"  />
 </div>
 
 ---
@@ -65,5 +65,5 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bersinada/bersinada/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bersinada/bersinada/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
