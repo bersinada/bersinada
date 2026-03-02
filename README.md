@@ -45,8 +45,11 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 ### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bersinada&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=1800" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bersinada&layout=compact&theme=dracula&langs_count=6&hide_border=true&cache_seconds=1800" height="170" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bersinada&theme=dracula" height="170" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bersinada&theme=dracula" height="170" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bersinada&theme=dracula&hide_border=true" height="150" alt="streak stats" />
 </div>
 
 ---
