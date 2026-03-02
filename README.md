@@ -1,14 +1,12 @@
-<h2 align="center">Hi there! 👋 I'm Berat Sinan Ada</h2>
+<h2 align="center">Hi there! I'm Berat Sinan Ada</h2>
 
-<h3 align="center">🛰️ Geomatics Engineering Student & Spatial Intelligence Aspirant</h3>
+<h3 align="center">Geomatics Engineering Student & Spatial Intelligence Aspirant</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
   <tr>
     <td valign="middle" width="55%">
-      <p>
-        I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
-        By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
-      </p>
+      I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
+      By combining my background in Geomatics with modern AI and frontend frameworks, my goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information.
     </td>
     <td valign="middle" align="right" width="45%">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwcDNnZ3I0b2F4bzhxZnptOHI4MnE0ZHl3bzZvc3h5aWV5bW04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvCijJ9qDCmgnSc62Y/giphy.gif" width="400" height="220" style="object-fit: cover; border-radius: 10px;" />
@@ -18,7 +16,7 @@
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### Technical Stack & Tools
 
 <b>Geospatial & Engineering:</b><br>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
@@ -47,26 +45,27 @@
 
 ---
 
-### 📊 GitHub Analysis
+### GitHub Analysis
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bersinada&theme=dracula" height="170" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bersinada&theme=dracula" height="170" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bersinada&theme=dracula&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bersinada&theme=dracula" height="160" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bersinada&theme=dracula" height="160" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com/?user=bersinada&theme=dracula&hide_border=true" height="160" alt="streak stats" />
 </div>
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:bsinanada@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/berat-sinan-ada/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://medium.com/@bsinanada">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="35" alt="medium logo" />
   </a>
 </div>
 
