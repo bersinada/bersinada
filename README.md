@@ -54,13 +54,15 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 
 <div align="left">
   <a href="mailto:bsinanada@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://cdn.simpleicons.org/googlegmail/EA4335" height="35" alt="gmail logo" />
   </a>
+  <img width="10" />
   <a href="https://www.linkedin.com/in/berat-sinan-ada/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo" />
   </a>
+  <img width="10" />
   <a href="https://medium.com/@bsinanada">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="35" alt="medium logo" />
+    <img src="https://cdn.simpleicons.org/medium/white" height="35" alt="medium logo" />
   </a>
 </div>
 
