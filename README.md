@@ -13,7 +13,7 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 
 <br clear="right" />
 
-<img src="assets/iso1 (1).png" width="100%" height="8" />
+<img src="assets/iso1 (1).png" width="100%" height="100" />
 
 <h3 align="center">🛠️ Technical Stack & Tools</h3>
 
@@ -42,7 +42,7 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
 
-<img src="assets/iso1 (2).png" width="100%" height="8" />
+<img src="assets/iso1 (2).png" width="100%" height="100" />
 
 <h3 align="center">📊 GitHub Analysis</h3>
 
@@ -52,7 +52,7 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
   <img src="https://streak-stats.demolab.com/?user=bersinada&theme=dracula&hide_border=true" height="160" alt="streak stats" />
 </div>
 
-<img src="assets/iso1 (3).png" width="100%" height="8" />
+<img src="assets/iso1 (3).png" width="100%" height="100" />
 
 <h3 align="center">📫 Connect with me</h3>
 
