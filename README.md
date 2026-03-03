@@ -3,7 +3,7 @@
 <h3 align="center">🛰️ Geomatics Engineering Student & Spatial Intelligence Developer</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByYTFvcms5eHNtY3dzNXJ6cXR2aDhocGRqYW4ybDEycGJ0eHhudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8sRbOtj55JACfGn8R/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByYTFvcms5eHNtY3dzNXJ6cXR2aDhocGRqYW4ybDEycGJ0eHhudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8sRbOtj55JACfGn8R/giphy.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 I aim to bridge the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. My current focus is on exploring the field of <b>Spatial Intelligence</b>: learning how to leverage Geomatics Engineering to help systems perceive and reason about 3D environments.<br><br>
