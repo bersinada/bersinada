@@ -13,8 +13,6 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 
 <br clear="right" />
 
-<img src="assets/iso1 (1).png" width="100%" height="8" />
-
 <h3 align="center">🛠️ Technical Stack & Tools</h3>
 
 <p align="center"><b>Geospatial & Engineering:</b></p>
@@ -42,8 +40,6 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
 
-<img src="assets/iso1 (2).png" width="100%" height="8" />
-
 <h3 align="center">📊 GitHub Analysis</h3>
 
 <div align="center">
@@ -56,18 +52,16 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 
 <h3 align="center">📫 Connect with me</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium badge" />
+</p>
+
 <div align="center">
-  <a href="mailto:bsinanada@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="35" alt="gmail logo" />
-  </a>
-  <img width="10" />
-  <a href="https://www.linkedin.com/in/berat-sinan-ada/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="35" alt="linkedin logo" />
-  </a>
-  <img width="10" />
-  <a href="https://medium.com/@bsinanada">
-    <img src="https://cdn.simpleicons.org/medium/ffffff" height="35" alt="medium logo" />
-  </a>
+  <a href="mailto:bsinanada@gmail.com">Gmail</a> • 
+  <a href="https://www.linkedin.com/in/berat-sinan-ada/">LinkedIn</a> • 
+  <a href="https://medium.com/@bsinanada">Medium</a>
 </div>
 
 <br>
