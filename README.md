@@ -19,7 +19,6 @@ Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensin
 <p align="center"><b>Geospatial & Engineering:</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
