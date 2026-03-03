@@ -3,10 +3,6 @@
 <h3 align="center">🛰️ Geomatics Engineering @ ITU | Spatial Intelligence Developer</h3>
 
 <p align="center">
-  <img src="assets/intro.gif" width="100%" height="300px" style="object-fit: cover; border-radius: 10px;" />
-</p>
-
-<p align="center">
 I am focused on bridging the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. As a Geomatics Engineering student at <b>Istanbul Technical University</b>, I explore the synergy between high-precision surveying and computational perception to help machines "see" and "reason" within 3D environments.
 <br><br>
 Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensing</b>, and <b>3D Scene Understanding</b>. My goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information, transforming raw data into intelligent world models.
@@ -19,7 +15,6 @@ Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensin
 <p align="center"><b>Geospatial & Engineering:</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
