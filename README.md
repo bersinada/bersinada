@@ -51,16 +51,16 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium badge" />
+  <a href="mailto:bsinanada@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/berat-sinan-ada/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+  </a>
+  <a href="https://medium.com/@bsinanada">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium badge" />
+  </a>
 </p>
-
-<div align="center">
-  <a href="mailto:bsinanada@gmail.com">Gmail</a> • 
-  <a href="https://www.linkedin.com/in/berat-sinan-ada/">LinkedIn</a> • 
-  <a href="https://medium.com/@bsinanada">Medium</a>
-</div>
 
 <br>
 
