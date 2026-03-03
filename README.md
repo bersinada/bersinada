@@ -62,7 +62,7 @@ By combining my background in Geomatics with modern AI and frontend frameworks, 
   </a>
   <img width="10" />
   <a href="https://medium.com/@bsinanada">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="35" alt="medium logo" />
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="35" alt="medium logo" />
   </a>
 </div>
 
