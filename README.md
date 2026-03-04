@@ -56,7 +56,3 @@ Senior Geomatics Engineering student at ITU, focused on the emerging field of Sp
 </p>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bersinada/bersinada/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
