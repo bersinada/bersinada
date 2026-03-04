@@ -3,9 +3,7 @@
 <h3 align="center">🛰️ Geomatics Engineering @ ITU | Spatial Intelligence Developer</h3>
 
 <p align="left">
-I am focused on bridging the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. As a Geomatics Engineering student at <b>Istanbul Technical University</b>, I explore the synergy between high-precision surveying and computational perception to help machines "see" and "reason" within 3D environments.
-<br><br>
-Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensing</b>, and <b>3D Scene Understanding</b>. My goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information, transforming raw data into intelligent world models.
+Senior Geomatics Engineering student at ITU, focused on the emerging field of Spatial Intelligence. I am fascinated by the challenge of teaching machines to 'reason' within 3D spaces. My current journey involves diving into Geospatial AI, Remote Sensing, and 3D Scene Understanding to explore how we can provide deeper, more actionable context to geographic information.
 </p>
 
 <br clear="right" />
