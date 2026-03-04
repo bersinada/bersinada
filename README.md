@@ -12,14 +12,14 @@ Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensin
 
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
 
-<p align="left"><b>Geospatial & Engineering:</b></p>
-<p align="left">
+<p align="center"><b>Geospatial & Engineering:</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<p align="left"><b>Development & AI:</b></p>
+<p align="center"><b>Development & AI:</b></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="10" />
