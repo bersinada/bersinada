@@ -2,7 +2,7 @@
 
 <h3 align="center">🛰️ Geomatics Engineering @ ITU | Spatial Intelligence Developer</h3>
 
-<p align="center">
+<p align="left">
 I am focused on bridging the gap between <b>Physical Geography</b> and <b>Digital Intelligence</b>. As a Geomatics Engineering student at <b>Istanbul Technical University</b>, I explore the synergy between high-precision surveying and computational perception to help machines "see" and "reason" within 3D environments.
 <br><br>
 Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensing</b>, and <b>3D Scene Understanding</b>. My goal is to develop <b>data-driven tools</b> that provide deep, actionable context to geographic information, transforming raw data into intelligent world models.
@@ -10,16 +10,16 @@ Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensin
 
 <br clear="right" />
 
-<h3 align="center">🛠️ Technical Stack & Tools</h3>
+<h2 align="left">🛠️ Technical Stack & Tools</h2>
 
-<p align="center"><b>Geospatial & Engineering:</b></p>
-<p align="center">
+<p align="left"><b>Geospatial & Engineering:</b></p>
+<p align="left">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<p align="center"><b>Development & AI:</b></p>
+<p align="left"><b>Development & AI:</b></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="10" />
@@ -36,15 +36,14 @@ Currently, I am deepening my expertise in <b>Geospatial AI</b>, <b>Remote Sensin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </div>
 
-<h3 align="center">📊 GitHub Analysis</h3>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bersinada&theme=dracula" height="160" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bersinada&theme=dracula" height="160" alt="languages graph" />
   <img src="https://streak-stats.demolab.com/?user=bersinada&theme=dracula&hide_border=true" height="160" alt="streak stats" />
 </div>
 
-<h3 align="center">📫 Connect with me</h3>
+<h2 align="left">📫 Connect with me</h2>
 
 <p align="center">
   <a href="mailto:bsinanada@gmail.com">
